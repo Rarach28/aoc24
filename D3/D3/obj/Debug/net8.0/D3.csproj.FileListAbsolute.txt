@@ -1,0 +1,15 @@
+/Users/tomashotarek/MY/aoc24/D3/D3/bin/Debug/net8.0/D3
+/Users/tomashotarek/MY/aoc24/D3/D3/bin/Debug/net8.0/D3.deps.json
+/Users/tomashotarek/MY/aoc24/D3/D3/bin/Debug/net8.0/D3.runtimeconfig.json
+/Users/tomashotarek/MY/aoc24/D3/D3/bin/Debug/net8.0/D3.dll
+/Users/tomashotarek/MY/aoc24/D3/D3/bin/Debug/net8.0/D3.pdb
+/Users/tomashotarek/MY/aoc24/D3/D3/obj/Debug/net8.0/D3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomashotarek/MY/aoc24/D3/D3/obj/Debug/net8.0/D3.AssemblyInfoInputs.cache
+/Users/tomashotarek/MY/aoc24/D3/D3/obj/Debug/net8.0/D3.AssemblyInfo.cs
+/Users/tomashotarek/MY/aoc24/D3/D3/obj/Debug/net8.0/D3.csproj.CoreCompileInputs.cache
+/Users/tomashotarek/MY/aoc24/D3/D3/obj/Debug/net8.0/D3.sourcelink.json
+/Users/tomashotarek/MY/aoc24/D3/D3/obj/Debug/net8.0/D3.dll
+/Users/tomashotarek/MY/aoc24/D3/D3/obj/Debug/net8.0/refint/D3.dll
+/Users/tomashotarek/MY/aoc24/D3/D3/obj/Debug/net8.0/D3.pdb
+/Users/tomashotarek/MY/aoc24/D3/D3/obj/Debug/net8.0/D3.genruntimeconfig.cache
+/Users/tomashotarek/MY/aoc24/D3/D3/obj/Debug/net8.0/ref/D3.dll
