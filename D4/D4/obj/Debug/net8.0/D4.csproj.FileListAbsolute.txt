@@ -1,0 +1,15 @@
+/Users/tomashotarek/MY/aoc24/D4/D4/bin/Debug/net8.0/D4
+/Users/tomashotarek/MY/aoc24/D4/D4/bin/Debug/net8.0/D4.deps.json
+/Users/tomashotarek/MY/aoc24/D4/D4/bin/Debug/net8.0/D4.runtimeconfig.json
+/Users/tomashotarek/MY/aoc24/D4/D4/bin/Debug/net8.0/D4.dll
+/Users/tomashotarek/MY/aoc24/D4/D4/bin/Debug/net8.0/D4.pdb
+/Users/tomashotarek/MY/aoc24/D4/D4/obj/Debug/net8.0/D4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomashotarek/MY/aoc24/D4/D4/obj/Debug/net8.0/D4.AssemblyInfoInputs.cache
+/Users/tomashotarek/MY/aoc24/D4/D4/obj/Debug/net8.0/D4.AssemblyInfo.cs
+/Users/tomashotarek/MY/aoc24/D4/D4/obj/Debug/net8.0/D4.csproj.CoreCompileInputs.cache
+/Users/tomashotarek/MY/aoc24/D4/D4/obj/Debug/net8.0/D4.sourcelink.json
+/Users/tomashotarek/MY/aoc24/D4/D4/obj/Debug/net8.0/D4.dll
+/Users/tomashotarek/MY/aoc24/D4/D4/obj/Debug/net8.0/refint/D4.dll
+/Users/tomashotarek/MY/aoc24/D4/D4/obj/Debug/net8.0/D4.pdb
+/Users/tomashotarek/MY/aoc24/D4/D4/obj/Debug/net8.0/D4.genruntimeconfig.cache
+/Users/tomashotarek/MY/aoc24/D4/D4/obj/Debug/net8.0/ref/D4.dll
